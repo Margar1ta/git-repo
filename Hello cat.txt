@@ -1,1 +1,2 @@
-print "Hello Cat!"
+print("Hello Cat!")
+print("You are the greatest cat ever!")
